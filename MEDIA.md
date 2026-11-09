@@ -2,7 +2,7 @@
 ---
 Ce fichier contient nos medias favoris
 
-##Jeux
+## Jeux
 ---
 Voici une liste de nos jeux préférées et des studios qui les ont créé:
 1. **Dawn of War** - Relic 
@@ -10,7 +10,7 @@ Voici une liste de nos jeux préférées et des studios qui les ont créé:
 3. **Clair Obscur expedition 33** - Sandfall Interactives
 
 
-##Films
+## Films
 ---
 Voici une liste de nos films préférées et de leurs réalisateurs :
 1. **Contact** - Robert Zemeckis 
@@ -18,7 +18,7 @@ Voici une liste de nos films préférées et de leurs réalisateurs :
 3. **Interstellar** - Christopher Nolan
 
 
-##Musique
+## Musique
 ---
 Voici une liste de nos chansons préférées et de leurs auteurs :
 1. **The Greatest Show on Earth** - Nightwish 
