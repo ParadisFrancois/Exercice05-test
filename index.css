@@ -6,11 +6,15 @@ body
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h1, h2, h3
+h1
 {
     color: #FFFFFF;
 }
 
+h2, h3
+{
+    color: #90CAF9;
+}
 
 p
 {
@@ -47,4 +51,27 @@ button
 button:hover
 {
     background-color: #555555;
+}
+
+.container
+{
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 30px;
+
+    background-color: #353535;
+    color: #F0F0F0;
+
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+.container h1
+{
+    margin-top: 0;
+}
+
+.container li
+{
+    margin-bottom: 10px;
 }
