@@ -1,0 +1,50 @@
+
+body
+{
+    background-color: #1E1E1E;
+    color: #F0F0F0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3
+{
+    color: #FFFFFF;
+}
+
+
+p
+{
+    color: #D0D0D0;
+}
+
+a
+{
+    color: #64B5F6;
+}
+
+a:hover
+{
+    color: #90CAF9;
+}
+
+input, textarea, select
+{
+    background-color: #333333;
+    color: #FFFFFF;
+    border: 1px solid #666666;
+    padding: 8px;
+}
+
+button
+{
+    background-color: #444444;
+    color: #FFFFFF;
+    border: 1px solid #666666;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+button:hover
+{
+    background-color: #555555;
+}
