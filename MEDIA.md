@@ -5,9 +5,12 @@ Ce fichier contient nos medias favoris
 ## Jeux
 
 Voici une liste de nos jeux préférées et des studios qui les ont créé:
-1. **Dawn of War** - Relic 
-2. **Ghost of Yotei** - Sucker Punch
-3. **Clair Obscur expedition 33** - Sandfall Interactives
+1. **Pro Wrestling** - Nintendo
+2. **Phantasy Star II** - Sega
+3. **Wing Commander** - Origin Systems
+4. **Dawn of War** - Relic Entertainment
+5. **Clair Obscur expedition 33** - Sandfall Interactives
+6. **Ghost of Yotei** - Sucker Punch
 
 
 ## Films
